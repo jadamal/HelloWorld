@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HELLO WORLD</string>
+    <string name="int_name">WELCOME</string>
+    <string name="entrar">ENTER</string>
+</resources>
